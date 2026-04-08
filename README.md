@@ -7,11 +7,11 @@ Este projeto é uma aplicação de **Sistema Bancário** desenvolvida como parte
 
 ---
 
-## 📝 Descrição do Projeto
+## Descrição do Projeto
 
 O **Mack Bank** simula as operações essenciais de uma conta corrente, permitindo o gerenciamento de saldo, limite de crédito e segurança por senha. O projeto foca na validação rigorosa de dados e na experiência do usuário via terminal.
 
-### 🚀 Funcionalidades Principais
+### Funcionalidades Principais
 
 * **Cadastro de Conta:** * Geração automática de número de conta (ID aleatório).
     * Validação de CPF (11 dígitos numéricos).
@@ -25,7 +25,7 @@ O **Mack Bank** simula as operações essenciais de uma conta corrente, permitin
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.x
 * **Bibliotecas:** `random` (para geração de número da conta)
@@ -37,7 +37,7 @@ O **Mack Bank** simula as operações essenciais de uma conta corrente, permitin
 
 ---
 
-## 💻 Como Executar
+## Como Executar
 
 1.  Certifique-se de ter o **Python 3** instalado.
 2.  Faça o download do arquivo do código (ex: `projeto_banco.py`).
@@ -49,7 +49,7 @@ O **Mack Bank** simula as operações essenciais de uma conta corrente, permitin
 
 ---
 
-## 🧑‍💻 Autoras
+## Autoras
 
 Projeto desenvolvido por alunos do 1º semestre do curso de **Sistemas de Informação**:
 
