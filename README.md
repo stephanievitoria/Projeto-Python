@@ -60,6 +60,6 @@ Projeto desenvolvido por alunos do 1º semestre do curso de **Sistemas de Inform
 
 ---
 
-## 🎓 Contexto Acadêmico
+## Contexto Acadêmico
 
 Este software foi o projeto prático consolidado para a matéria de Algoritmos na **UPM**, visando demonstrar a capacidade de estruturação de sistemas lógicos e resolução de problemas através de código limpo e funcional.
